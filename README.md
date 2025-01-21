@@ -6,4 +6,5 @@ The aim of this project was to analyze Adventure Works’ sales performance and 
 The analysis helps stakeholders understand customer behavior, regional performance, and seasonal trends, enabling better decision-making to boost profitability and growth. Ultimately, the project provides a clear, data-driven perspective on sales performance to support effective business planning and strategy development.
 Step 1: Cleaning of the data
 Step 2: Modelling of the data
-Step 3: Creating Report
+Step 3: Creating Report with charts
+
